@@ -1,0 +1,184 @@
+Sorting Algorithms
+Bubble Sort [done]
+
+Selection Sort [done]
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Radix Sort
+
+Bucket Sort
+
+Tim Sort
+
+Searching Algorithms
+Linear Search
+
+Binary Search
+
+Ternary Search
+
+Interpolation Search
+
+Exponential Search
+
+Jump Search
+
+Graph Algorithms
+Breadth-First Search (BFS)
+
+Depth-First Search (DFS)
+
+Dijkstra’s Algorithm (Shortest Path)
+
+Bellman-Ford Algorithm
+
+Floyd-Warshall Algorithm
+
+A* Algorithm
+
+Prim’s Algorithm (Minimum Spanning Tree)
+
+Kruskal’s Algorithm (Minimum Spanning Tree)
+
+Tarjan’s Algorithm (Strong
+
+Here's a general list of algorithm categories you can implement in your Lua library:
+
+1. Sorting Algorithms
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Heap Sort
+
+Counting Sort
+
+Radix Sort
+
+Bucket Sort
+
+2. Searching Algorithms
+Linear Search
+
+Binary Search
+
+Ternary Search
+
+Interpolation Search
+
+Jump Search
+
+Exponential Search
+
+3. Graph Algorithms
+Breadth-First Search (BFS)
+
+Depth-First Search (DFS)
+
+Dijkstra’s Algorithm
+
+Bellman-Ford Algorithm
+
+Floyd-Warshall Algorithm
+
+A* Algorithm
+
+Prim’s Algorithm
+
+Kruskal’s Algorithm
+
+Tarjan’s Algorithm (Strongly Connected Components)
+
+Topological Sorting (Kahn’s & DFS-based)
+
+4. String Algorithms
+Knuth-Morris-Pratt (KMP)
+
+Rabin-Karp Algorithm
+
+Z Algorithm
+
+Boyer-Moore Algorithm
+
+Suffix Array
+
+Longest Common Subsequence (LCS)
+
+Longest Palindromic Substring
+
+5. Number Theory
+Sieve of Eratosthenes (Prime Numbers)
+
+Greatest Common Divisor (GCD) - Euclidean Algorithm
+
+Extended Euclidean Algorithm
+
+Fast Modular Exponentiation
+
+Miller-Rabin Primality Test
+
+Chinese Remainder Theorem
+
+6. Dynamic Programming (DP)
+Fibonacci (Memoization & Tabulation)
+
+Longest Increasing Subsequence
+
+Knapsack Problem (0/1 and Fractional)
+
+Coin Change Problem
+
+Matrix Chain Multiplication
+
+7. Geometry Algorithms
+Convex Hull (Graham’s Scan, Jarvis March)
+
+Line Intersection
+
+Closest Pair of Points
+
+Sweep Line Algorithm
+
+8. Cryptographic Algorithms
+Caesar Cipher
+
+RSA Algorithm
+
+Diffie-Hellman Key Exchange
+
+AES Encryption
+
+9. Machine Learning & AI
+K-Nearest Neighbors (KNN)
+
+Naive Bayes Classifier
+
+Decision Trees
+
+Genetic Algorithms
+
+10. Miscellaneous Algorithms
+Fast Fourier Transform (FFT)
+
+Disjoint Set Union (DSU) / Union-Find
+
+Bit Manipulation Tricks
+
+Backtracking (N-Queens, Sudoku Solver)
+
+Monte Carlo Algorithm
